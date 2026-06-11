@@ -30,4 +30,4 @@ Stack
 
 Solución
 
-![demo-solution](./demo-solution.gif)
+![demo-solution](/demo-solution.gif)
