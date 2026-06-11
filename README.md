@@ -1,11 +1,11 @@
-Laboratorio Maguito - Día 2
+# Laboratorio Maguito - Día 2
 
 Challenge de 30 días para aprender GSAP y animaciones web como scrolltelling.
 Día 2: MAGUITO Labs Landing
 
-Objetivo: Crear una landing page interactiva con parallax, partículas y efectos visuales al mouse.
+### Objetivo: Crear una landing page interactiva con parallax, partículas y efectos visuales al mouse.
 
-UX Flow
+### UX Flow
 
 - Llega la página
 - El logo y la varita tienen un suave parallax que sigue el mouse
@@ -14,7 +14,7 @@ UX Flow
 - El gradiente de fondo crea una atmósfera inmersiva
 - La página es completamente responsiva en todos los tamaños de pantalla
 
-Conceptos aprendidos
+### Conceptos aprendidos
 
 - Parallax con mouse — transform suave usando requestAnimationFrame para seguir el cursor
 - React useMemo + useState — renderizar grids dinámicos sin perder performance
@@ -23,11 +23,11 @@ Conceptos aprendidos
 - Refs y effects en React — manipular el DOM directamente para efectos visuales
 - Grilla procedural — generar elementos visuales en base al tamaño de la ventana
 
-Stack
+## Stack
 
 - Vite + React
 - CSS Animations + Flexbox
 
-Solución
+## Solución
 
-![demo-solution](/demo-solution.gif)
+![demo-solution](https://i.imgur.com/JU5su0L.gif)
