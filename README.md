@@ -29,3 +29,5 @@ Stack
 - CSS Animations + Flexbox
 
 Solución
+
+![demo-solution](./demo-solution.gif)
